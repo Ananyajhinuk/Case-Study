@@ -1,0 +1,30 @@
+D:\C Sharp Project\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.exe
+D:\C Sharp Project\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.deps.json
+D:\C Sharp Project\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.runtimeconfig.json
+D:\C Sharp Project\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.dll
+D:\C Sharp Project\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.pdb
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.csproj.AssemblyReference.cache
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.AssemblyInfoInputs.cache
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.AssemblyInfo.cs
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.csproj.CoreCompileInputs.cache
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.dll
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\refint\DotNetProject.dll
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.pdb
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.genruntimeconfig.cache
+D:\C Sharp Project\DotNetProject\DotNetProject\obj\Debug\net6.0\ref\DotNetProject.dll
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.exe
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.deps.json
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.runtimeconfig.json
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.dll
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\bin\Debug\net6.0\DotNetProject.pdb
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.dll
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\refint\DotNetProject.dll
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.pdb
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\DotNetProject.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\DotNetProject\DotNetProject\obj\Debug\net6.0\ref\DotNetProject.dll
